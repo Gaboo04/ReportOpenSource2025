@@ -13,7 +13,7 @@
 <h2 style="text-align:center;">Integrantes:</h2>
 <h3 style="text-align:center;">Aaron Alexander Avila Palacios</h3>
 <h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo - u20201e889</h3>
-<h3 style="text-align:center;">Kevin Alexander Castañeda Llanos</h3>
+<h3 style="text-align:center;">Kevin Alexander Castañeda Llanos - u202318814</h3>
 <h3 style="text-align:center;">Ivan Jeanpierre La Madrid Lozano</h3>
 <h3 style="text-align:center;">Max Anthony Paitan Pumacahua</h3>
 <h2 style="text-align:center;">2025</h2>
@@ -23,7 +23,7 @@
 |---------|----------|----------------------------|-----------------------------|
 | 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| ejemplo                     |
 | 1.0     | 2025-04- | Aaron Avila Palacios       | ejemplo                     |
-| 1.0     | 2025-04- | Kevin Castañeda Llanos     | ejemplo                     |
+| 1.0     | 2025-04-16 | Kevin Castañeda Llanos     | ejemplo                     |
 | 1.0     | 2025-04- | Ivan La Madrid Lozano      | ejemplo                     |
 | 1.0     | 2025-04- | Max Paitan Pamacahua       | ejemplo                     |
 ## Project Report Collaboration Insights
