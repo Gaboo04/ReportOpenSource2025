@@ -192,6 +192,13 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 ### 2.4. Ubiquitous Language.
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
+En esta sección el equipo introduce, resume el proceso realizado por el equipo y
+presenta una captura de los To-Be Scenario Mapping elaborados en la herramienta
+indicada para cada User Persona, incluyendo las filas Phases, Doing, Thinking y
+Feeling. El proceso de realización debe pasar por las etapas de preparación, lluvia de
+ideas individual, revisión e identificación de fases como columnas, nombrar las fases,
+comparar el mapa con el As-Is Scenario Mapping, identificando cambios que podría
+ofrecer el To-Be Scenario Mapping.
 ### 3.2. User Stories.
 ### 3.3. Impact Mapping.
 ### 3.4. Product Backlog.
