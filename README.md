@@ -265,7 +265,35 @@ Hemos decidido dividir nuestros segmentos objetivo en dos usuarios objetivos. Es
 ### 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
+En esta sección se explicará como se representará la información de la Landing Page de nuestra startup con una organización clara y concisa.
+
+**Principios de etiquetado:**
+ - Simplicidad: Buscaremos que las etiquetas tengan nombres entendibles y cortos para que se entienda claramente la información de cada una.
+ - Claridad: El nombre de las etiquetas deben ser claras y fácil de entender, para que transmitan rápidamente la función de la etiqueta.
+**Etiquetas y asociaciones**
+ - Header: Será el encabezado de la página que contendrá el logo de nuestra startup y el sistema de navegación de la landing page como por ejemplo "Contacto" o "Planes".
+ - Secciones: Habrán secciones para cada tipo de información, como por ejemplo la sección relacionada a la información de la startup, la sección de contacto, planes y características.
+ - Call to Action:
+   - Botones: Algunos botones llevarán a otras partes de la Landing Page, como por ejemplo un botón de "Descubre más" que lleve a la sección de Contactos.
+   - Links: La Landing Page tendra links entre secciones del menu de navegación para que al dar clicks a esas opciones, nos lleve a ciertas partes. Por ejemplo, que al darle click a la opción "Sobre     nosotros", te lleve a la sección de información de la startup. También, se puede crear links a redes sociales a través de un SVG o PNG de cada red social.
+ - Footer: El pie de página se encargará de contener información como algunas redes sociales de la startup, preguntas frecuentes, número de contacto, etc.
 ### 4.2.3. SEO Tags and Meta Tags
+Los SEO Tags y Meta Tags son sumamente importantes para la aplicación y landing page ya que hará que resalte ante otras páginas a la hora de realizar búsquedas a través de los browser.
+ -**Title tag:** 
+   - Valor: "MatchEvent - Conecta Marcas con Productoras de Eventos"
+   - Descripción: Un título corto que describe la funcionalidad de la página.
+ -**Meta tag:**
+   - Valor: "MatchEvent es una aplicación que ayuda a que productoras de eventos puedan brindar sus servicios a empresas y marcas. Además, esetas empresas pueden contactar con las productoras en caso requieran mayor información."
+   - Descripción: Proporciona una mayor descripción al Title Tag, especificando un poco más las características de la startup y como puede influir positivamente.
+ -**Meta keywords:**
+   -Valor: "Gestionar eventos, servicio para empresas, activaciones de marka, marketing, productoras de eventos, organización de eventos."
+   -Descripción: Algunas palabras claves que dan a entender las funcionalidades o lo que desea cumplir la aplicación.
+ -**Meta author:**
+   - Valor: CloseSource
+   - Descripción: El nombre del autor, en este caso, el autor detrás de MatchEvent que es CloseSource.
+ -**Meta robots:**
+   - Valor: "index, follow"
+   - Descripción: Son importantes para decirle a los motores de búsqueda cómo deben indexar o no indexar tu página y si deben seguir los enlaces que hay en ella.
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ### 4.3. Landing Page UI Design.
