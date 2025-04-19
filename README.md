@@ -261,8 +261,21 @@ A continuación, se presentan los Epics y User Stories que cubren los requisitos
 | ST011           | Historial de solicitudes de activación          | Como Empresa o marca, quiero ver mis solicitudes pasadas y en curso, para hacer seguimiento y gestionar mis eventos.                                    | - Given que soy una empresa con solicitudes creadas, When accedo a “Mis activaciones”, Then puedo ver un listado con estado y detalles.                                                                                                                                                           | EP004                     |
 | ST012           | Seguimiento de eventos contratados              | Como Productora especializada, quiero acceder a una sección con las activaciones en las que estoy trabajando.                                           | - Given que fui contratada para eventos, When accedo a “Mis activaciones”, Then visualizo los detalles de cada evento.                                                                                                                                                                            | EP004                     |
 | ST013           | Contactar a productora desde su perfil          | Como Empresa o marca, quiero poder contactar a una productora desde su perfil, para coordinar los detalles de una posible contratación.                 | - Given que soy una empresa autenticada, When visualizo el perfil de una productora, Then puedo acceder a una opción para iniciar contacto. - Given que inicio un contacto, When la productora recibe la solicitud, Then ambas partes podemos iniciar una negociación.                            | EP004                     |
+| ST014           | Contactar a empresa desde una solicitud         | Como Productora especializada, quiero poder contactar a una empresa desde su solicitud de activación, para ofrecer mis servicios y obtener más detalles. | - Given que soy una productora autenticada, When visualizo una solicitud publicada, Then puedo acceder a una opción para iniciar contacto con la empresa. <br> - Given que inicio un contacto, When la empresa recibe la solicitud, Then ambas partes podemos iniciar una negociación.                | EP004                     |
+| ST015           | Sistema de mensajería interna                   | Como usuario autenticado, quiero contar con una mensajería dentro de la plataforma, para comunicarme con otras empresas de forma segura y centralizada. | - Given que estoy autenticado, When accedo a una conversación activa, Then puedo enviar y recibir mensajes. <br> - Given que recibo un nuevo mensaje, When ingreso a la plataforma, Then puedo ver notificaciones en tiempo real o al iniciar sesión.                                                   | EP004                     |
 
 ### 3.3. Impact Mapping.
+
+En esta sección se presenta el Impact Mapping realizado para nuestros dos user personas previamente definidos: el Gerente de Marketing de una empresa o marca, y el Coordinador Comercial de una empresa productora de eventos.
+
+**Figura 5: Impact Mapping**
+
+![Impact Mapping](/images/ImpactMap.png)
+
+Esta figura muestra el Impact Mapping en el cual se definieron tres Business Goals SMART: (1) alcanzar 600 usuarios registrados en 8 meses, (2) lograr que el 50% de las empresas publiquen una solicitud dentro de los primeros 10 días, y (3) conseguir que el 60% de las productoras activas generen al menos un contrato en los primeros 4 meses. Además, se identificaron las acciones que deben realizar para alcanzar estos objetivos.
+
+
+
 ### 3.4. Product Backlog.
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines.
