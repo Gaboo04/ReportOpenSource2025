@@ -1,22 +1,31 @@
-<h2 style="text-align:center;">Universidad Peruana de Ciencias Aplicadas</h2>
-<h2 style="text-align:center;">Ingeniería de Software</h2>
-<h2 style="text-align:center;">Ciclo 2025 - 1 </h2>
-<p align="center">
+<div align = "center">
+<h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <p align="center">
   <img src="/images/UPC_logo.png" />
 </p>
-<h2 style="text-align:center;">1ASI0729 - Desarrollo de Aplicaciones Open Source</h2>
-<h2 style="text-align:center;">Sección - 4341</h2>
-<h2 style="text-align:center;">Docente: Juan Antonio Flores Moroco</h2>
-<h2 style="text-align:center;">"Informe de Trabajo Final"</h2>
-<h2 style="text-align:center;">Startup: CloseSource</h2>
-<h2 style="text-align:center;">Producto: MatchEvent</h2>
-<h2 style="text-align:center;">Integrantes:</h2>
-<h3 style="text-align:center;">Aaron Alexander Avila Palacios</h3>
-<h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo - u20201e889</h3>
-<h3 style="text-align:center;">Kevin Alexander Castañeda Llanos - u202318814</h3>
-<h3 style="text-align:center;">Ivan Jeanpierre La Madrid Lozano</h3>
-<h3 style="text-align:center;">Max Anthony Paitan Pumacahua</h3>
-<h2 style="text-align:center;">2025</h2>
+<h2>Carrera: de Ingeniería de Software</h2>
+<h2>Ciclo 2025-01 </h2>
+<br>
+<h2>1ASI0729 - Desarrollo de Aplicaciones Open Source</h2>
+<h2>Sección - 4341</h2>
+<h2>Docente: Juan Antonio Flores Moroco</h2>
+<br>
+<h2>"Informe de Trabajo Final"</h2>
+<h2>Startup: CloseSource</h2>
+<h2>Producto: MatchEvent</h2>
+<br>
+<h2>Integrantes:</h2>
+<ul style="list-style: none; padding: 0;">
+ <li><h3>Avila Palacios Aaron Alexander - u201823654</h3></li>
+<li><h3>Gabriel Anthony Braithuaite Toledo - u20201e889</h3></li>
+<li><h3>Kevin Alexander Castañeda Llanos - u202318814</h3></li>
+<li><h3>Ivan Jeanpierre La Madrid Lozano</h3></li>
+<li><h3>Max Anthony Paitan Pumacahua</h3></li>
+   </ul>
+   <br>
+  <h4>2025</h4>
+</div>
+
 
 ## Registro de Versiones del Informe
 | Versión | Fecha    | Autor                      | Descripción de modificación |
