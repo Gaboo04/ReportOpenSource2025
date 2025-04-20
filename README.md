@@ -365,6 +365,18 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
   <img src="/images/Empathy map Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
   
 ### 2.3.5. As-is Scenario Mapping.
+
+El As-Is Scenario Mapping es una herramienta para identificar los pensamientos que tendrán los usuarios
+a la hora de utilizar la aplicación actual.
+
+- Empresas o Marcas:
+
+  <img src="/images/As-is Scenario Mapping_Empresas o Marcas.png" alt="Empresas o Marcas"/>
+
+- Productoras Especializadas:
+
+  <img src="/images/As-is Scenario Mapping_Productoras Especializadas.png" alt="Productoras Especializadas"/>
+  
 ### 2.4. Ubiquitous Language.
 <p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
 común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear 
