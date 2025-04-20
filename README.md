@@ -345,6 +345,15 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 -También existe coincidencia en la importancia de calificar el trabajo recibido o realizado, lo que refuerza la necesidad de sistemas de reputación y feedback dentro de la plataforma.
 
 ### 2.3.3. User Journey Mapping.
+- Empresas o Marcas:
+
+  <img src="/images/User journey map Empresas o Marcas.png" alt="Carla Ramírez"/>
+
+- Productoras Especializadas:
+
+  <img src="/images/User journey map  Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
+
+images
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
