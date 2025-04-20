@@ -195,6 +195,155 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
+
+- Empresas o Marcas:
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Buscar proveedores para eventoss</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comparar presupuestos y propuestas</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Publicar requerimientos para activaciones</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales proveedores</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Media</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Quincenal</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Encontrar soluciones rápidas sin depender de contactos informales</td>
+			<td colspan="1">Siempre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Evaluar calidad antes de contratar</td>
+			<td colspan="1">Simepre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+	</tbody>
+</table>
+
+- Productoras Especializadas:
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales clientes</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Difundir portafolio o servicios de producción</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Captar nuevos clientes fuera de su red de contactos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>      
+     <tr>
+			<td colspan="1">Asegurar visibilidad en canales digitales formales</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Posicionarse como experto en un nicho de eventos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Evitar pérdida de tiempo con clientes no alineados a su especialidad</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+	</tbody>
+</table>
+
+<h3>Tareas con mayor frecuencia e importancia:</h3>
+
+-Ambas partes coinciden en que comunicarse, negociar condiciones y revisar referencias o portafolios son tareas de alta frecuencia e importancia. Estas acciones forman parte esencial del proceso previo a la contratación.
+
+-Para las empresas, destacan las tareas de buscar proveedores y publicar requerimientos, esenciales para iniciar la gestión de activaciones.
+
+-Para las productoras, resultan críticas las tareas de difundir su portafolio, captar nuevos clientes y asegurar visibilidad digital, todas con alta importancia, aunque con frecuencias variables dependiendo de sus recursos actuales.
+
+<h3>Principales diferencias:</h3>
+
+-Las empresas priorizan encontrar y seleccionar proveedores adecuados, mientras que las productoras se enfocan más en ser encontradas y mostrarse de forma profesional.
+
+-La gestión de propuestas comerciales y la visibilidad en canales digitales tiene una importancia mayor para las productoras, ya que les permite ampliar su alcance y mejorar sus oportunidades comerciales.
+
+<h3>Coincidencias relevantes:</h3>
+
+-Ambas partes valoran la calidad del contacto y la comunicación directa, así como la posibilidad de revisar y comparar propuestas de manera clara y estructurada.
+
+-También existe coincidencia en la importancia de calificar el trabajo recibido o realizado, lo que refuerza la necesidad de sistemas de reputación y feedback dentro de la plataforma.
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
