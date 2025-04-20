@@ -352,11 +352,78 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 - Productoras Especializadas:
 
   <img src="/images/User journey map  Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
-
-images
+  
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
+<p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
+común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear 
+un nexo entre los usuarios y los desarrolladores:</p>
+
+
+  <table>
+    <caption>Ubiquitous Language – Business Domain Glossary</caption>
+    <thead>
+      <tr>
+        <th>Term (English)</th>
+        <th>Término (Español)</th>
+        <th>Definition (Spanish)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Brand Activation</td>
+        <td>Activación de Marca</td>
+        <td>Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca.</td>
+      </tr>
+      <tr>
+        <td>Experiential Marketing</td>
+        <td>Marketing Experiencial</td>
+        <td>Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas.</td>
+      </tr>
+      <tr>
+        <td>Production Company</td>
+        <td>Productora</td>
+        <td>Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.</td>
+      </tr>
+      <tr>
+        <td>Proposal</td>
+        <td>Propuesta</td>
+        <td>Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación.</td>
+      </tr>
+      <tr>
+        <td>Client Brief</td>
+        <td>Brief del Cliente</td>
+        <td>Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento.</td>
+      </tr>
+      <tr>
+        <td>Quote</td>
+        <td>Cotización</td>
+        <td>Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente.</td>
+      </tr>
+      <tr>
+        <td>Portfolio</td>
+        <td>Portafolio</td>
+        <td>Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.</td>
+      </tr>
+      <tr>
+        <td>Lead</td>
+        <td>Cliente Potencial</td>
+        <td>Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación.</td>
+      </tr>
+      <tr>
+        <td>Engagement</td>
+        <td>Interacción / Compromiso</td>
+        <td>Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia.</td>
+      </tr>
+      <tr>
+        <td>Event Staffing</td>
+        <td>Personal de Evento</td>
+        <td>Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.).</td>
+      </tr>
+    </tbody>
+  </table>
+
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
 ### 3.2. User Stories.
