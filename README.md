@@ -338,6 +338,7 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 ### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+  <img src="/images/diagram_database.png" />
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
