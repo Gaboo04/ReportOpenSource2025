@@ -160,8 +160,8 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 
 | Criterio Específico | Acciones Realizadas                                                                                                     | Conclusiones           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br> Presente el desarrollo de User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping,Ubiquitous Language<br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
 
 # Capítulo 1: Introducción
 
