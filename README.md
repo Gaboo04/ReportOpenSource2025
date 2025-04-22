@@ -21,8 +21,8 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha    | Autor                      | Descripción de modificación |
 |---------|----------|----------------------------|-----------------------------|
-| 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| ejemplo                     |
-| 1.0     | 2025-04- | Aaron Avila Palacios       | ejemplo                     |
+| 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| ejemplo                    |
+| 1.0     | 2025-04-20 | Aaron Avila Palacios       | Desarrollo del punto 2.3.2 al 2.4|
 | 1.0     | 2025-04- | Kevin Castañeda Llanos     | ejemplo                     |
 | 1.0     | 2025-04- | Ivan La Madrid Lozano      | ejemplo                     |
 | 1.0     | 2025-04- | Max Paitan Pamacahua       | ejemplo                     |
