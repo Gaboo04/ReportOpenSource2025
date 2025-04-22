@@ -158,6 +158,8 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 
 ## Student Outcome
 
+ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias. 
+
 | Criterio Específico | Acciones Realizadas                                                                                                     | Conclusiones           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
