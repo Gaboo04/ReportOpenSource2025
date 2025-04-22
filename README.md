@@ -317,8 +317,30 @@ En esta sección se presenta el Product Backlog, que incluye las historias de us
 ### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
+Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear una arquitectura más flexible y mantenible.
+MatchEvent es un ejemplo de una aplicación web que utiliza este enfoque, permitiendo a las empresas y productoras gestionar sus eventos de manera eficiente.
 ### 4.6.1. Software Architecture Context Diagram.
+Elementos en el diagrama de contexto:
+- MatchEvent: Aplicación web que conecta empresas y productoras.
+- Visitor: Usuario no autenticado que navega por la landing page.
+- Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
+
+**Figura 6: Software Architecture Context Diagram**
+
+![Software Architecture Context Diagram](/images/contextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
+Elementos en el diagrama de contenedores:
+- Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
+- Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
+- Backend API: API que gestiona la lógica de negocio y la comunicación entre la aplicación web y la base de datos.
+- Landing Page: Página de inicio que proporciona información sobre la plataforma y permite a los usuarios registrarse o iniciar sesión.
+- Developer: Desarrollador que trabaja en la implementación y mantenimiento de la aplicación.
+- Visitor: Usuario no autenticado que navega por la landing page.
+- Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
+
+**Figura 7: Software Architecture Container Diagrams**
+
+![Software Architecture Container Diagrams](/images/containerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
