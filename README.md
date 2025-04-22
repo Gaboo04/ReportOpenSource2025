@@ -23,7 +23,7 @@
 |---------|----------|----------------------------|-----------------------------|
 | 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| ejemplo                    |
 | 1.0     | 2025-04-20 | Aaron Avila Palacios       | Desarrollo del punto 2.3.2 al 2.4|
-| 1.0     | 2025-04- | Kevin Castañeda Llanos     | ejemplo                     |
+| 1.0     | 2025-04- | Kevin Castañeda Llanos     | Desarrollo del punto 1.2.2.2 al 1.3, 4.2.2 al 4.2.5 y del 4.8|
 | 1.0     | 2025-04- | Ivan La Madrid Lozano      | ejemplo                     |
 | 1.0     | 2025-04- | Max Paitan Pamacahua       | ejemplo                     |
 ## Project Report Collaboration Insights
