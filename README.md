@@ -21,7 +21,7 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha    | Autor                      | Descripción de modificación |
 |---------|----------|----------------------------|-----------------------------|
-| 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| ejemplo                    |
+| 1.0     | 2025-04-16 | Gabriel Braithuaite Toledo| Desarollo del punto 3.1 al 3.4                    |
 | 1.0     | 2025-04-20 | Aaron Avila Palacios       | Desarrollo del punto 2.3.2 al 2.4|
 | 1.0     | 2025-04- | Kevin Castañeda Llanos     | Desarrollo del punto 1.2.2.2 al 1.3, 4.2.2 al 4.2.5 y del 4.8|
 | 1.0     | 2025-04- | Ivan La Madrid Lozano      | ejemplo                     |
@@ -160,8 +160,8 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 
 | Criterio Específico | Acciones Realizadas                                                                                                     | Conclusiones           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br> Presente el desarrollo de User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping,Ubiquitous Language<br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | Se logró comunicar ... |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br> Comunicó ideas y decisiones con el equipo para la elaboración del To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, entre otros.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | **TB1** <br>El equipo demostró habilidades de comunicación oral al presentar y discutir avances técnicos, decisiones estratégicas y conceptos funcionales del proyecto con claridad y coherencia. Se adaptó el lenguaje en función del público, facilitando el diálogo entre desarrolladores, docentes y posibles usuarios. Esta capacidad permitió resolver dudas, alinear expectativas y fortalecer la toma de decisiones colaborativas. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>redactó ideas en el brainstorming, el Scenario Mapping y user stories para ambos segmentos objetivos y user personas.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br> Presente el desarrollo de User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping,Ubiquitous Language<br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | **TB1** <br>A través de documentos como el Impact Mapping, las User Stories y el Product Backlog, el equipo comunicó por escrito de manera clara y estructurada los aspectos clave del desarrollo. El uso de formatos comprensibles, lenguaje accesible y herramientas visuales como UXPressia permitió transmitir información técnica a distintos públicos, asegurando una comprensión común de los objetivos, funcionalidades y valor del proyecto. |
 
 # Capítulo 1: Introducción
 
