@@ -547,13 +547,13 @@ Link del video: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5E
 No se han implementado servicios para el Landing Page, por lo que no se tiene documentación de los servicios. Por otro lado, aún no hemos desarrollado los servicios para el aplicativo web, lo cual haremos en los siguientes sprints.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review.**   
-![Deployment](images2/deployment1.jpg) 
-![Deployment](images2/deployment2.jpg)
+![Deployment](images/deployment1.PNG) 
+![Deployment](images/deployment2.PNG)
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint.** 
 
-![Team collaboration insights](images2/collaboration1.jpg)
-![Team collaboration insights](images2/collaboration2.jpg)
+![Team collaboration insights](images/collaboration1.PNG)
+![Team collaboration insights](images/collaboration2.PNG)
 
 # Bibliografía:
 
