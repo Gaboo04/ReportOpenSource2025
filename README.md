@@ -341,7 +341,7 @@ Acompañan estos, los colores neutros como el blanco, el negro y los grises, que
 
 Se ha adoptado un sistema de espaciado modular basado en múltiplos de 4 píxeles (4px, 8px, 12px, 16px, 32px, etc.) con el fin de mantener una estructura visual limpia, ordenada y coherente en toda la interfaz. Esta decisión facilita la alineación precisa entre elementos, mejora la legibilidad del contenido y refuerza la jerarquía visual, permitiendo que la información fluya de forma natural. Al aplicar estas unidades de manera sistemática, se optimiza también la escalabilidad del diseño, haciendo que la interfaz pueda adaptarse fácilmente a diferentes tamaños de pantalla sin perder equilibrio ni armonía visual.
 
-![Espaciado](images/spacing.PNG)  
+![Espaciado](images/spacing.png)  
 
 **Dimensions:**
 
@@ -380,7 +380,7 @@ Se priorizará el uso de íconos que refuercen el significado de botones y accio
 
 Su aplicación estará presente en áreas como navegación, formularios, estados del sistema y acciones secundarias, buscando siempre que los elementos visuales aporten valor informativo sin recargar la interfaz. Esto permitirá mejorar la experiencia de usuario mediante una comunicación visual clara y efectiva.
 
-![Íconos](images/icons.PNG) 
+![Íconos](images/icons.png) 
 
 ## **4.2. Information Architecture.**
 
