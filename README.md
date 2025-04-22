@@ -484,7 +484,6 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 ### 5.1.4. Software Deployment Configuration.
 
 
-
 ## **5.2. Landing Page, Services & Applications Implementation**  
 ### **5.2.1. Sprint 1**  
 #### **5.2.1.1. Sprint Planning 1**
@@ -507,10 +506,10 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 #### **5.2.1.2. Aspect Leaders and Collaborators**
 | Team Member | GitHub username | Diseño de la UI del Landing Page | Programación de la sección "Inicio"  | Programación de la sección "Features" | Programación de la sección "About Us" | Programación de la sección "Contact Us" |
 | :--: | :--: | :--: |:--: | :--: | :--: | :--: |
-| Aaron Alexander Avila Palacios |  | - | - | - | - | - |
+| Aaron Alexander Avila Palacios | AaronAvilap | - | - | - | - | - |
 | Gabriel Anthony Braithuaite Toledo | Gaboo04 | -| - | -| -| -|
 | Kevin Alexander Castañeda Llanos | KevCast1604 | -| -| -| - | - |
-| Ivan Jeanpierre La Madrid Lozano |  | -| -| -| -| -|
+| Ivan Jeanpierre La Madrid Lozano | ivanlamadrid | -| -| -| -| -|
 | Max Anthony Paitan Pumacahua | MaxPaitanP | L | L | L | L | L |
 
 #### **5.2.1.3. Sprint Backlog 1**
@@ -519,27 +518,29 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
 | ID  | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US | Sección Inicio	 | TS01 | Implementación de la sección Inicio | Correción de los botones de llamada a la acción en el Landing Page, configurándolo en el html y el css | 2 hours | Max | Done |
-| US | Sección Features | TS02 | Implementación de la sección Features | Corrección de ciertos errores existentes en la característica responsive del Landing Page | 2 hours | Max | Done |
-| US | Sección About Us | TS03 | Implementación de la sección About Us | Corrección de ciertos errores existentes en la característica responsive del Landing Page | 2 hours | Max | Done |
-| US | Sección Contact Us | TS04 | Implementación de la sección Contact Us | Corrección de ciertos errores existentes en la característica responsive del Landing Page | 2 hours | Max | Done |
+| US003 | Sección Cómo funciona	 | TS01 | Implementación de la sección Cómo funciona | Implementación de la sección "Cómo funciona", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| US004 | Sección Productoras | TS02 | Implementación de la sección Productoras | Implementación de la sección "Productoras", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| US005 | Sección Empresas | TS03 | Implementación de la sección Empresas | Implementación de la sección "Empresas", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| US008 | Sección Call to action | TS04 | Implementación de la sección Call to action | Implementación de la sección "Call to action", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| US007 | Sección Quienes somos | TS05 | Implementación de la sección Quienes somos | Implementación de la sección "Quienes somos", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| US006 | Sección Footer | TS06 | Implementación de la sección Footer | Implementación de la sección "Footer", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | :---: | :---: | :---: | :---: | ----- | :---: |
-| CloseSource-Landing-Page | main | b318cf8c81c544963677622047e49954de843638 | Feature: Add files via upload | —---------- | 06/09/2024 |
-| CloseSource-Landing-Page | main | 902341545a8caf4527f88f7910e26608dd61de21 | Feature: add images to the landing page folder | —---------- | 06/09/2024 |
-| CloseSource-Landing-Page | main | 44599733a240bd6d2f6a537a0c2a21b22d2c5df6 | Feature: fix about-us image error | —---------- | 06/09/2024 |
-| CloseSource-Landing-Page | main | ff568669c9926924b45928b3bfa7fcfd082115e1 | Feature: fix carousel images | —---------- | 06/09/2024 |
-| CloseSource-Landing-Page | main | 816a16a246cc39876189df416d25bb264c1f54d9 | Feature: update html name | —---------- | 06/09/2024 |
-| CloseSource-Landing-Page | main | 492d5df6a9a10645c7ea6494442a5d15e7ece482 | Feature: update landing page colors | —---------- | 07/09/2024 |
-| CloseSource-Landing-Page | main | 525c63f7089ed0c900be749e74661962f5128cf4 | Feature: fix responsive images in about-us | —---------- | 07/09/2024 |
-| CloseSource-Landing-Page | main | 413b5efa913beebbc9652d5f134d01edaa98e75c | Feature: add style to hamburger menu | —---------- | 07/09/2024 |
+| CloseSource-Landing-Page | landingPage_v1 | 1bff1d65627964230ae650fe9924be36eb87b533 | Feature: Initial commit | —---------- | 15/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | 271aba1fd0932c9194a963bc72774a01c5eb293c | Feature: add README description | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | 45f09304157777edbbe534e733bc4ae284536884 | Feature: add image folder, with all the imagen to the landing page | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | 0a68cf21f7517938744168537ef22bd17e5c34f9 | Feature: add the index file | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | a26ae6335bf0d2ead8a79f93ed2b935e9e12c1a9 | Feature: add the style file | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | 82931dc4ee7e961e6e2a39bb9b44919e4a336df8 | Feature: add the script file | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | 4ed473590c8b4e5125d51393b063e8789370ae30 | Chore: clean the style file | —---------- | 20/04/2025 |
+| CloseSource-Landing-Page | landingPage_v1 | a4836aefc9a32ad80ea647f7647510b17fe83875 | Fix: fix the activation image's size | —---------- | 20/04/2025 |
 
 #### **5.2.1.5. Execution Evidence for Sprint Review** 
 
-Link del video:
+Link del video: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5Eh/view?usp=drive_link
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
