@@ -25,7 +25,7 @@
 | 1.0     | 2025-04-20 | Aaron Avila Palacios       | Desarrollo del punto 2.3.2 al 2.4|
 | 1.0     | 2025-04- | Kevin Castañeda Llanos     | Desarrollo del punto 1.2.2.2 al 1.3, 4.2.2 al 4.2.5 y del 4.8|
 | 1.0     | 2025-04- | Ivan La Madrid Lozano      | ejemplo                     |
-| 1.0     | 2025-04- | Max Paitan Pamacahua       | ejemplo                     |
+| 1.0     | 2025-04- | Max Paitan Pamacahua       | Desarrollo del punto 1.1.al 1.2.2.1., 4.1. al4.2.1., y del 5.1. al 5.2.1.8 |
 ## Project Report Collaboration Insights
 URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-4341-G2-CloseSource
 ## Contenido
@@ -160,8 +160,8 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 
 | Criterio Específico | Acciones Realizadas                                                                                                     | Conclusiones           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br> Comunicó ideas y decisiones con el equipo para la elaboración del To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, entre otros.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. <br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | **TB1** <br>El equipo demostró habilidades de comunicación oral al presentar y discutir avances técnicos, decisiones estratégicas y conceptos funcionales del proyecto con claridad y coherencia. Se adaptó el lenguaje en función del público, facilitando el diálogo entre desarrolladores, docentes y posibles usuarios. Esta capacidad permitió resolver dudas, alinear expectativas y fortalecer la toma de decisiones colaborativas. |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>redactó ideas en el brainstorming, el Scenario Mapping y user stories para ambos segmentos objetivos y user personas.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br> Presente el desarrollo de User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping,Ubiquitous Language<br>Max Paitan - TB1 <br>Ivan La Madrid - TB1 | **TB1** <br>A través de documentos como el Impact Mapping, las User Stories y el Product Backlog, el equipo comunicó por escrito de manera clara y estructurada los aspectos clave del desarrollo. El uso de formatos comprensibles, lenguaje accesible y herramientas visuales como UXPressia permitió transmitir información técnica a distintos públicos, asegurando una comprensión común de los objetivos, funcionalidades y valor del proyecto. |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br> Comunicó ideas y decisiones con el equipo para la elaboración del To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, entre otros.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. <br>Max Paitan - TB1 <br>Coordinó con el equipo para la repartición y desarrollo del report, así como gestioné la colaboración grupal para el desarrollo de tareas complejas <br>Ivan La Madrid - TB1 | **TB1** <br>El equipo demostró habilidades de comunicación oral al presentar y discutir avances técnicos, decisiones estratégicas y conceptos funcionales del proyecto con claridad y coherencia. Se adaptó el lenguaje en función del público, facilitando el diálogo entre desarrolladores, docentes y posibles usuarios. Esta capacidad permitió resolver dudas, alinear expectativas y fortalecer la toma de decisiones colaborativas. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| Gabriel Braithuaite - TB1 <br>redactó ideas en el brainstorming, el Scenario Mapping y user stories para ambos segmentos objetivos y user personas.   <br>Kevin Castañeda - TB1 <br>Aaron Avila - TB1 <br> Presente el desarrollo de User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping,Ubiquitous Language<br>Max Paitan - TB1 <br> Redacté parte del capitulo 1, donde están la descripción de la empresa, el solution profile y el Lean UX Problem Statements. También avancé parte del capítulo 4, con los General Style Guidelines. Finalmente, avance con lo correspondiente al capítulo 5 para esta entrega. <br>Ivan La Madrid - TB1 | **TB1** <br>A través de documentos como el Impact Mapping, las User Stories y el Product Backlog, el equipo comunicó por escrito de manera clara y estructurada los aspectos clave del desarrollo. El uso de formatos comprensibles, lenguaje accesible y herramientas visuales como UXPressia permitió transmitir información técnica a distintos públicos, asegurando una comprensión común de los objetivos, funcionalidades y valor del proyecto. |
 
 # Capítulo 1: Introducción
 
@@ -190,15 +190,21 @@ Convertirnos en la plataforma líder en Perú para la gestión de activaciones d
 ### **1.1.2. Perfiles de integrantes del equipo**
 
 ####  Nombre: Avila Palacios, Aaron Alexander | U201823654
-
+![Aaron Avila Palacios](images/aaron.jpeg)  
+> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.
 #### Nombre: Braithuaite Toledo, Gabriel Anthony | U20201e889
-
+![Gabriel Braithuaite Toledo](images/gabriel.jpeg)  
+> Mi nombre es Gabriel Anthony Braithuaite Toledo, soy estudiante de la carrera de Ingeniería de Software. apasionado por la tecnología. Soy una persona disciplinada y organizada.
 ####  Nombre: Castañeda Llanos, Kevin Alexander | U202318814
-
+![Kevin Castañeda Llanos](images/kevin.jpeg)  
+> Soy un estudiante de la carrera de ingeniería de software, tengo 19 años y estoy en el 5to ciclo, actualmente me encuentro interesado en el desarrollo de aplicaciones, IA y ciberseguridad
 ####  Nombre: La Madrid Lozano, Ivan Jeanpierre | UU202113432
-
+![Ivan La Madrid Lozano](images/ivan.jpeg)  
+> Soy un estudiante de ingenieria de software de 21 años apasionado por el mundo de la programación y desarrollo web. Colaborativo y entusiasta en el mundo tecnologico.
 ####  Nombre: Paitan Pumacahua, Max Anthony | U201314454
-
+![Max Paitan Pumacahua](images/max.jpg)  
+> Soy Max Anthony y tengo 27 años. Estoy retomando Ingeniería de Software como segunda carrera, ya que siempre tuvo ello como objetivo; en la actualidad, me encuentro cursando el séptimo ciclo.
+> Entre mis habilidades están: Ágil capacidad de análisis -tanto individual como también en colectivo-, empático en un contexto determinado -tomando decisiones de manera sensata-, y puedo ser tanto gestor como un participante activo dentro de un grupo de trabajo.
 
 ## **1.2. Solution Profile**
 
