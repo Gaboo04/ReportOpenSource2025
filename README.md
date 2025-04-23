@@ -354,6 +354,66 @@ Elementos en el diagrama de componentes:
 **Figura 8: Bounded Context Identity and Access**
 
 ![Bounded Context Identity and Access](/images/identityAndAccessBoundedContext.png)
+
+**Bounded Context Activation Request**
+
+Responsabilidad:
+
+- Creación de solicitudes de activación
+- Edición o eliminación
+- Listado de solicitudes
+- Visualización de detalles de una solicitud
+
+**Figura 9: Bounded Activation Request** 
+
+![Bounded Context Activation Request](/images/activationRequestsBoundedContext.png)
+
+**Bounded Context Activation Quotes**
+
+Responsabilidad:
+- Permitir a una productora enviar una propuesta para una solicitud publicada.
+- Listar propuestas enviadas por cada productora.
+- Posible relación con estados: "enviada", "aceptada", "rechazada".
+
+**Figura 10: Bounded Context Activation Quotes**
+
+![Bounded Context Activation Quotes](/images/activationQuotesBoundedContext.png)
+
+**Bounded Context Activation Management**
+
+Responsabilidad:
+
+- Ver el historial de activaciones (mis activaciones)
+- Ver detalles de cada activación.
+- Cambiar estado: "en curso", "finalizada", "cancelada".
+
+**Figura 11: Bounded Context Activation Management**
+
+![Bounded Context Activation Management](/images/activationManagementBoundedContext.png)
+
+**Bounded Context Portafolio Management**
+
+Responsabilidad:
+- Permitir a una productora registrar y editar su portafolio de servicios.
+- Cada servicio podría tener: nombre, descripción, categoría, precio, etc.
+- Mostrar estos servicios como parte del perfil público de la productora.
+
+**Figura 12: Bounded Context Portafolio Management**
+
+![Bounded Context Portafolio Management](/images/portafolioManagementBoundedContext.png)
+
+**Bounded Context Providers**
+
+Responsabilidad:
+
+- Buscar productoras por nombre, categoría, tags, ubicación, etc.
+- Visualizar perfil público de una productora
+- Filtros
+
+**Figura 13: Bounded Context Providers**
+
+![Bounded Context Providers](/images/providersBoundedContext.png)
+
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
