@@ -187,13 +187,105 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+El mercado de plataformas para la gestión y contratación de servicios para eventos cuenta con diversos actores consolidados. A continuación, se identifican los principales competidores:
+
+- **Eventtia**: Plataforma integral para la gestión de eventos presenciales, virtuales e híbridos. Destaca por su personalización, herramientas de marketing y analítica avanzada.
+
+- **Eventbrite**: Solución global orientada a la promoción y venta de entradas para eventos. Reconocida por su interfaz intuitiva y amplio alcance.
+
+- **Crosalia**: Marketplace en la nube enfocado en la contratación de servicios para eventos. Ofrece una solución integral tanto para proveedores como para organizadores.
+
+- **eEvents Live**: Especializada en eventos digitales e híbridos. Brinda herramientas completas para la organización, promoción y análisis de eventos.
+
+- **GoTab**: Plataforma orientada a mejorar la experiencia del asistente mediante pedidos y pagos sin contacto, enfocándose en la eficiencia operativa durante el evento.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+Para posicionarse de manera efectiva, se plantean las siguientes estrategias diferenciadoras:
+
+1. **Especialización del servicio**  
+   Focalizarse en conectar empresas con productoras especializadas en tipos específicos de eventos, como activaciones de marca o lanzamientos corporativos.
+
+2. **Sistema de reputación transparente**  
+   Incorporar un sistema de calificaciones y reseñas verificadas que fomente la confianza y facilite la toma de decisiones de los usuarios.
+
+3. **Acompañamiento personalizado**  
+   Brindar orientación directa a empresas con poca experiencia en producción de eventos, destacando el valor consultivo de la plataforma.
+
+4. **Filtros avanzados y búsqueda inteligente**  
+   Desarrollar funcionalidades que permitan segmentar resultados según necesidades específicas (tipo de evento, presupuesto, experiencia, etc.).
+
+5. **Modelo freemium**  
+   Ofrecer acceso gratuito a funcionalidades básicas, reservando herramientas avanzadas para usuarios suscritos, incentivando así la adopción progresiva.
+
+6. **Promoción interna para productoras**  
+   Integrar herramientas de visibilidad dentro de la plataforma, como destacación de servicios, portafolio y campañas promocionales internas.
+
+7. **Alianzas estratégicas**  
+   Establecer convenios con entidades del sector, agencias o plataformas complementarias para potenciar la red de usuarios y aumentar la credibilidad del producto.
 ### 2.2. Entrevistas.
+
 ### 2.2.1. Diseño de entrevistas.
+
+El diseño de entrevistas tiene como objetivo validar los supuestos clave del proyecto, entender las necesidades reales de los usuarios y recopilar información cualitativa que permita orientar el desarrollo de la plataforma. Se proponen dos perfiles principales a entrevistar: **empresas/marcas** que requieren servicios de producción de eventos y **productoras** que ofrecen dichos servicios.
+
+#### Objetivos de la entrevista
+
+- Identificar las principales dificultades que enfrentan las empresas al organizar eventos.
+- Validar el interés en una plataforma centralizada para conectar con productoras.
+- Comprender cómo las productoras gestionan actualmente la captación de clientes.
+- Evaluar la disposición de ambos perfiles a utilizar una solución tecnológica para este fin.
+- Identificar las funcionalidades más valoradas por cada tipo de usuario.
+
+#### Perfil de entrevistados
+
+- **Empresas y marcas**:
+  - Responsables de marketing, comunicación o eventos.
+  - Empresas que hayan organizado al menos un evento en el último año.
+  - Empresas sin experiencia previa pero con intención de realizar eventos en el corto plazo.
+
+- **Productoras**:
+  - Empresas o freelancers dedicados a la producción de eventos o activaciones de marca.
+  - Productoras con experiencia en diversos tipos de eventos (corporativos, BTL, culturales, etc.).
+  - Interesados en aumentar su visibilidad o ampliar su cartera de clientes.
+
+#### Guía de preguntas para empresas/marcas
+
+1. ¿Qué tipo de eventos organiza su empresa y con qué frecuencia?
+2. ¿Cómo suele encontrar proveedores para la producción de eventos?
+3. ¿Qué dificultades ha tenido al contratar una productora?
+4. ¿Qué valoraría más en una plataforma para encontrar productoras?
+5. ¿Qué criterios utiliza para seleccionar una productora?
+6. ¿Ha tenido experiencias negativas en la organización de eventos? ¿Por qué?
+7. ¿Le interesaría una plataforma donde pueda ver reseñas y comparar ofertas?
+8. ¿Qué información le gustaría ver en el perfil de una productora?
+9. ¿Estaría dispuesto a interactuar directamente por la plataforma con los proveedores?
+
+#### Guía de preguntas para productoras
+
+1. ¿Qué tipo de eventos realiza su productora con mayor frecuencia?
+2. ¿Cómo consigue actualmente nuevos clientes?
+3. ¿Cuáles son los mayores retos al promocionar sus servicios?
+4. ¿Qué canales utiliza para mostrar su portafolio o experiencia?
+5. ¿Le interesaría una plataforma donde pudiera conectarse directamente con empresas interesadas?
+6. ¿Qué herramientas considera necesarias dentro de una plataforma de este tipo?
+7. ¿Cómo influye la reputación o las reseñas en la captación de nuevos clientes?
+8. ¿Estaría dispuesto a especializarse en un tipo de evento dentro de la plataforma?
+9. ¿Qué espera de una plataforma que busca profesionalizar la conexión entre marcas y productoras?
+
+#### Formato y duración
+
+- Entrevistas semiestructuradas de 30 a 45 minutos.
+- Modalidad virtual o presencial según disponibilidad.
+- Registro de respuestas mediante notas o grabaciones con consentimiento previo.
+
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
+![image](https://github.com/user-attachments/assets/fe96f6a1-973b-47ee-9210-12bd43ef37c3)
+![image](https://github.com/user-attachments/assets/a7b30721-2f60-49ad-a462-56ea7312b133)
 ### 2.3.2. User Task Matrix.
 
 - Empresas o Marcas:
@@ -476,6 +568,7 @@ un nexo entre los usuarios y los desarrolladores:</p>
 ### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
 ### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 ### 4.8.1. Database Diagram.
