@@ -316,7 +316,91 @@ Las productoras tienen dificultades para acceder a clientes fuera de su red de c
 **Pregunta central:**  
 ¿Cómo podríamos brindar a las productoras una plataforma donde puedan aumentar su visibilidad, mostrar sus trabajos anteriores y recibir solicitudes de forma organizada, profesional y con mayor alcance?
 
+### 1.2.2.2. Lean UX Assumptions.
+ - **Asumimos que** las productoras que se encarguen de ejecutar los eventos cuenten con la capacidad técnica para realizar el evento que necesite la empresa que demanda el servicio.
+     - **Sabremos que esto es cierto cuando** la empresa que necesita el evento vea las descripciones de cada productora para saber cual se alinea más a los objetivos.
+ - **Asumimos que** las productoras valoran construir una reputación positiva dentro de la plataforma.
+     - **Sabremos que esto es cierto cuando** las empresas den reseñas positivas a los eventos realizados y gestionados por la productora.
+ - **Asumimos que** las marcas buscan un espacio centralizado donde encontrar productoras para sus eventos.
+     - **Sabremos que esto es cierto cuando** la mayoría de las empresas u organizaciones nuevas completan la búsqueda o solicitud de una productora en su primera visita.
+ - **Asumimos que** las marcas no tienen contactos o tienen poca experiencia técnica al organizar eventos y necesitan orientación durante el proceso.
+     - **Sabremos que esto es cierto cuando** interactue con las productoras oral o textualmente para que les expliquen paso a paso los procesos de gestión, marketing, auspiciadores, entre otros.
+### 1.2.2.3. Lean UX Hypothesis Statements.
+1. **Creemos que** las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas . **Sabremos que** esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos.
+2. **Creemos que** las productoras podrán enontrar fácil alguna empresa que requiera de sus servicios. **Sabremos que** esto es cierto cuando las productoras se centren en la creación de un tipo de evento.
+### 1.2.2.4. Lean UX Canvas.
+<table>
+  <tr>
+    <th valign="top">
+      <p><b>1. Business Problem</b></p>
+      <p>Varias marcas enfrentan la dificultad de intentar organizar activaciones de marketing efectivas. Los eventos requieren coordinación, creatividad, logística y, sobre todo, proveedores confiables. Sin embargo, el proceso actual suele depender de contactos informales, referencias dispersas y gestiones no muy efectivas que comprometen la calidad del resultado final.</p>
+    </th>
+    <th valign="top">
+      <p><b>2. Business Outcomes</b></p>
+      <p>- Mejorar la calidad de los eventos de las marcas y empresas.</p>
+      <p>- Las productoras puedan ofrecer fácilmente sus servicios a otros clientes.</p>
+      <p>- Las empresas y marcas puedan conseguir contactos confiables.</p>
+      <p>- Conectar empresas y productoras de manera efectiva y rápdida.</p>
+    </th>
+    <th rowspan="2" valign="top">
+      <p><b>5. Solutions</b></p>
+      <p>- Desarrollar una aplicación en donde las empresas y marcas puedan buscar productoras para sus eventos o que las mismas productras brinden sus servicios a marcas.</p>
+      <p>- Que las empresas busquen sus servicios mediante filtros para que se alineen según sus objetivos en el evento que se desea raelizar.</p>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>3. Users</b></p>
+      <p>- Marcas y empresas (clientes): Empresas que necesiten de un productor para poder .</p>
+      <p>- Productoras (proveedores): Personas o productoras que cuenten con la capacidad técnica y creativa para realizar los eventos o activaciones de las empresas.</p>
+    </td>
+    <td valign="top">
+      <p><b>4. User Benefits</b></p>
+      <p>- Empresas y Marcas: Poder encontrar rápidamente con un productor que se encargue de gestionar sus eventos de manera productiva.</p>
+      <p>- Productoras: Encontrar una aplicación que les proporcione las herramientas necesarias para poder brindar sus servicios relacionados a la gestión de eventos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>6. Hypothesis</b></p>
+      <p>- Creemos que las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas.</p>
+      <p>- Sabremos que esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos.</p>
+    </td>
+    <td valign="top">
+      <p><b>7. What’s the most important thing we need to learn first?</b></p>
+      <p>Necesitamos corroborar que las empresas se sientan cómodas con los servicios que puedan brindar los productores. Además, debemos de verificar que las productoras cuenten con las herramientas adecuadas para ofrecer sus servicios.</p>
+    </td>
+    <td valign="top">
+      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
+      <p>Lanzar una versión de prueba con las funcionalidades más importantes de la aplicación para ver si la misión y el objetivo de la Startup se cumplirán.</p>
+    </td>
+  </tr>
+</table>
+### 1.3. Segmentos objetivo.
+Hemos decidido dividir nuestros segmentos objetivo en dos usuarios objetivos. Estos son las empresas y marcas que demanden servicios de alguien para poder realizar sus eventos y las productas que se encargarán de brindar sus servicios a las empresas.
 
+- **Empresas y marcas:** Usuarios que buscan realizar activaciones de marca y necesitan contactar productoras para recibir propuestas, cotizaciones o contratar servicios de producción de evento.
+- **Productoras especializadas:** Empresas o equipos de producción que ofrecen servicios relacionados a la ejecución de activaciones y eventos de marca, y que desean expandir su base de clientes o mejorar su visibilidad en el mercado.
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores.
+### 2.1.1. Análisis competitivo.
+### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.2. Entrevistas.
+### 2.2.1. Diseño de entrevistas.
+### 2.2.2. Registro de entrevistas.
+### 2.2.3. Análisis de entrevistas.
+### 2.3. Needfinding.
+### 2.3.1. User Personas.
+### 2.3.2. User Task Matrix.
+### 2.3.3. User Journey Mapping.
+### 2.3.4. Empathy Mapping.
+### 2.3.5. As-is Scenario Mapping.
+### 2.4. Ubiquitous Language.
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping.
+### 3.2. User Stories.
+### 3.3. Impact Mapping.
+### 3.4. Product Backlog.
 
 
 # **Capítulo IV: Product Design**
