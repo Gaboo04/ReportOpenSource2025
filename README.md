@@ -341,6 +341,8 @@ Elementos en el diagrama de contenedores:
 **Figura 7: Software Architecture Container Diagrams**
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
+
+![Software Architecture Container Diagrams](/images/containerDiagram2.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 **Bounded Context Identity and Access:**
 
