@@ -480,6 +480,8 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 ### 2.2.3. Análisis de entrevistas.
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
+![image](https://github.com/user-attachments/assets/fe96f6a1-973b-47ee-9210-12bd43ef37c3)
+![image](https://github.com/user-attachments/assets/a7b30721-2f60-49ad-a462-56ea7312b133)
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
@@ -845,6 +847,7 @@ Responsabilidad:
 
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
 ### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 ### 4.8.1. Database Diagram.
